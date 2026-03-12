@@ -30,5 +30,5 @@ Blessings:
 	Cool Wind – A soft wind will blow around you at suitably dramatic moments.
 	Deceit Detector – You can instinctively tell if someone’s words are intended to decieve you.
 Curses:
-
 	Demonic Gourmand’s Mark – You smell especially delicious to demons who will now prioritize eating you over other nearby humans.
+
