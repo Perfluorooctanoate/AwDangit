@@ -6,6 +6,7 @@ Here's how to use it:
 	Run awdangit.py and follow the prompts
 	When you exit, it'll save your character to character.json
 	Run it again and you can load your old character to continue where you left off
+	You will need MS Excel to edit the excel file storing the data for curses and blessings
 
 Upon startup, you create a character. They have a name, some number of spins (initially zero), a list of stats, a list of blessings, and a list of curses.
 The idea is that the author can give their character the ability to spin a metaphorical wheel and gamble for blessings and curses that are chosen from the excel sheet.
@@ -29,4 +30,5 @@ Blessings:
 	Cool Wind – A soft wind will blow around you at suitably dramatic moments.
 	Deceit Detector – You can instinctively tell if someone’s words are intended to decieve you.
 Curses:
+
 	Demonic Gourmand’s Mark – You smell especially delicious to demons who will now prioritize eating you over other nearby humans.
