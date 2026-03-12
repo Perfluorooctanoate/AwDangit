@@ -1,0 +1,25 @@
+{
+  "name": "Jack Breacher",
+  "spins": 0,
+  "stats": {
+    "VIT": 0,
+    "STR": 0,
+    "DEX": -5,
+    "INT": 2,
+    "SEN": 0,
+    "CHA": 0
+  },
+  "blessings": [],
+  "curses": [
+    {
+      "Name": "Slow Checkout",
+      "Description": "In customer-service situations, you always end up in the slower line or with the worse server.",
+      "Potency": 2
+    },
+    {
+      "Name": "Greed",
+      "Description": "You are unable to do acts of charity and must always receive a proportionate reward.",
+      "Potency": 3
+    }
+  ]
+}
